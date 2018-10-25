@@ -1,0 +1,5 @@
+com\alex\start\Main.class
+com\alex\service\StudentServiceImpl.class
+com\alex\start\Main$1.class
+com\alex\service\TestServiceImpl.class
+com\alex\repo\StudentRepo.class
